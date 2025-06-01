@@ -54,7 +54,7 @@ As tarefas estão sendo acompanhadas via GitHub Projects (Kanban) e registradas 
 
 ## Seção 4 – Modelagem Inicial (UML)
 
-Os diagramas estão localizados na pasta /diagrams.
+Os diagramas estão localizados na pasta /Diagrams.
 
 ---
 
