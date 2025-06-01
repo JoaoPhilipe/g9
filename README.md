@@ -32,13 +32,19 @@ Objetivos Específicos:
 ## Seção 3 – Divisão de Tarefas
 
 | Tarefa | Responsável | Descrição |
-|--------|-------------|-----------|--------|
+
 | Levantamento de requisitos | João Philipe | Identificar os elementos principais do sistema e os atores envolvidos |
+
 | Diagrama de Casos de Uso | João Otavio | Criar o diagrama de casos de uso em UML com base nos requisitos |
+
 | Diagrama de Classes | João Paulo | Modelar a estrutura principal do sistema com classes, atributos e métodos |
+
 | Diagrama de Sequência | Pedro Di Francescantonio | Criar um fluxo de execução entre objetos, simulando um cenário de uso |
+
 | Codificação inicial (classes base) | João Otavio e João Paulo | Criar as primeiras classes Java do sistema com base no diagrama de classes |
+
 | Testes e validação | João Philipe e Pedro | Validar funcionamento básico e simular cenários com entradas manuais |
+
 | Documentação e Markdown | Todos | Documentar o projeto em Markdown e manter os arquivos atualizados no GitHub |
 
 Organização e acompanhamento:  
